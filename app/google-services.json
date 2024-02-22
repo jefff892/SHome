@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "312955259746",
+    "firebase_url": "https://pametnakuca-a89a6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pametnakuca-a89a6",
+    "storage_bucket": "pametnakuca-a89a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312955259746:android:8199836fa80f9218623a3b",
+        "android_client_info": {
+          "package_name": "com.example.pp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4SGjWZMxkFa6LRI8mDd7leCVZjkNjo3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

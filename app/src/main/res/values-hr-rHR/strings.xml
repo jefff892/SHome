@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHome</string>
+    <string name="garage">Garaža</string>
+    <string name="room">Soba</string>
+    <string name="music">Muzika</string>
+    <string name="kitchen">Kuhinja</string>
+    <string name="gate">Kapija</string>
+    <string name="lights">Svijetla</string>
+    <string name="security">Sigurnost</string>
+    <string name="curtains">Zavjese</string>
+    <string name="door_lock">Vrata</string>
+    <string name="start">Započni</string>
+    <string name="stop">Zaustavi</string>
+</resources>
